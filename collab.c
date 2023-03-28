@@ -64,12 +64,17 @@ void stinu2_cdoma2() {
   printf("We learned about the versatile functionalities of git and how we are "
          "able to keep version and logs of a working tree/ code progress");
 }
-//new comment
+
 
 void jgongo2_pkoby2_kseki3() {
     printf("Juli Gongora Falla, Phillip Kobylinski, and Kaito Sekiya\n");
     printf("We learned that commit and push are seperate operations. "
            "You can make multiple commmits before pushing to the repository.\n");
+}
+
+void jmitch49_jtaran2()    {
+    printf("\n\nJordan Mitchell and Jared Tarantino.\n");
+    printf("GitHub was difficult to setup at first. \nIn the end, we learned that its a very effective tool for\n collaborating with multiple people and keeping track of\n various program versions. After getting the hang of\n pushing and pulling code, GitHub became much simpler to\n understand and work with others.\n ");
 }
 
 int main() {
@@ -83,6 +88,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  jmitch49_jtaran2();
 
   return 0;
 }
