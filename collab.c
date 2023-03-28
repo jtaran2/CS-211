@@ -64,7 +64,7 @@ void stinu2_cdoma2() {
   printf("We learned about the versatile functionalities of git and how we are "
          "able to keep version and logs of a working tree/ code progress");
 }
-
+//new comment
 
 void jgongo2_pkoby2_kseki3() {
     printf("Juli Gongora Falla, Phillip Kobylinski, and Kaito Sekiya\n");
